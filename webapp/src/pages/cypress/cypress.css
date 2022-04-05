@@ -1,0 +1,8 @@
+.cypress{
+    flex: 4;
+}
+
+.cypressWidgets{
+    display: flex;
+    margin: 20px;
+}
