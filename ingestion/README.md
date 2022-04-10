@@ -5,11 +5,7 @@ server on port 8000
 
 ### Requirements
 
-`pip install fastapi`
-
-`pip install uvicorn`
-
-`pip install python-multipart`
+`pip install -r requirements.txt`
 
 ### To run
 
