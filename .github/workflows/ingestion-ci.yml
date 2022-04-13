@@ -5,10 +5,6 @@ on:
     paths:
     - '.github/workflows/**'
     - 'ingestion/**'
-  pull_request:
-    paths:
-    - '.github/workflows/**'
-    - 'ingestion/**'
 
 jobs:
   build:
